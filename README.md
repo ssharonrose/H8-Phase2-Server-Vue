@@ -8,7 +8,8 @@ This backend repository complements the frontend work I've done using Vue.js. It
 
 ## About Me
 
-I am Sharon Rose, an enthusiastic developer who successfully completed the Hacktiv8 Phase 2 Vue bootcamp. With a solid understanding of backend technologies and Vue.js, I'm equipped to develop well-rounded web applications.
+I am Sharon Rose, a dedicated professional with a background in television commercials. I am embarking on an inspiring career transition into the world of software development. Recently, I pursued knowledge and skill enhancement through a Full Stack JavaScript Bootcamp to become proficient in web development. I have a genuine passion for problem-solving and attention to detail, and I am eager to contribute my creativity and diligence to deliver innovative software solutions. My experience in advertising has taught me the value of collaboration, effective communication, and critical thinking, all of which I hope to apply as I embrace this new challenge. With a deep sense of humility and adaptability, I am excited to grow and excel as a software developer.
+
 
 Connect with me on:
 - GitHub: [@ssharonrose](https://github.com/ssharonrose)
