@@ -1,0 +1,26 @@
+[
+    {
+        "username": "croundtree0",
+        "email": "mstandall0@webnode.com",
+        "password": "cI1$IT",
+        "role": "staff",
+        "phoneNumber": "+7 930 767 3416",
+        "address": "35147 Muir Junction"
+    },
+    {
+        "username": "ltribbeck1",
+        "email": "tbracey1@kickstarter.com",
+        "password": "iR4`?",
+        "role": "staff",
+        "phoneNumber": "+46 212 484 3293",
+        "address": "497 8th Center"
+    },
+    {
+        "username": "kcaselick2",
+        "email": "mbartul2@naver.com",
+        "password": "lI2'+sC)",
+        "role": "staff",
+        "phoneNumber": "+57 676 258 4843",
+        "address": "84 Declaration Street"
+    }
+]
